@@ -22,4 +22,4 @@ Some places to visit near the restaurant:
 
 
 
-**[page](MyMedia.md)**
+**[MyMedia](MyMedia.md)**
