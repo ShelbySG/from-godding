@@ -20,3 +20,12 @@ Here are some books that I reccomend. They were all great reads. Take a chance w
 
 --- 
 
+### Favorite Quotes
+
+> A friend may be waiting behind a stranger's face.
+
+-Maya Angelou
+
+> I never lose sight of the fact that just being is fun.
+
+-Katherine Hepburn
