@@ -18,3 +18,8 @@ Some places to visit near the restaurant:
 - Sam's Club
 - Goodwill
 - Price Chopper
+
+
+
+
+**[page](MyMedia.md)**
