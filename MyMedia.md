@@ -6,9 +6,17 @@ My favorite song is Paradise by Coldplay. I heard it when I was young and always
 
 ---
 
+### Book Reccomendations
+
+Here are some books that I reccomend. They were all great reads. Take a chance with them. Try something new! It never hurts. Hopefully you'll enjoy them as much as I did.
+
+
 |                 Book                  |                 Why I reccomend               |         Author        |
 |                  ---                  |                      ---                      |          ---:         |
 |            The Hunger Games           |               Dark but intriguing             |    Suzanne Collins    |
 |   The Ballad of Songbirds and Snakes  |   Amazing prequel, interesting perspective    |     Suzanne Collins   |
 |              Catching Fire            |            Characters get much deeper         |    Suzanne Collins    |
 |           Life as we Knew it          |    Apocalyptic but so realistic and harsh     |   Susan Beth Pfeffer  |
+
+--- 
+
