@@ -29,3 +29,19 @@ Here are some books that I reccomend. They were all great reads. Take a chance w
 >I never lose sight of the fact that just being is fun.
 
 *Katherine Hepburn*
+
+---
+
+### Code Fencing
+
+Code snippet that gets an array with elements included in two other arrays. 
+
+```
+const intersection = (a, b) => {
+  const s = new Set(b);
+
+  return a.filter(x => s.has(x));
+};
+```
+
+[JavaScript Link](https://code.pieces.app/collections/javascript)
