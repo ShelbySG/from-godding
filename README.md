@@ -14,6 +14,7 @@ Three of my favorite dishes from this restaurant are:
 3. Chili dog
 
 Some places to visit near the restaurant:
+
 -Sam's Club
 -Goodwill
 -Price Chopper
