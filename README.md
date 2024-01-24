@@ -15,6 +15,6 @@ Three of my favorite dishes from this restaurant are:
 
 Some places to visit near the restaurant:
 
--Sam's Club
--Goodwill
--Price Chopper
+- Sam's Club
+- Goodwill
+- Price Chopper
